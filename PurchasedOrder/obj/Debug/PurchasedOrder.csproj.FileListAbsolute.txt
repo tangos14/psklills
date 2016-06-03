@@ -1,0 +1,10 @@
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\bin\Debug\PurchasedOrder.exe.config
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\bin\Debug\PurchasedOrder.exe
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\bin\Debug\PurchasedOrder.pdb
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\bin\Debug\MySql.Data.DLL
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\obj\Debug\PurchasedOrder.csprojResolveAssemblyReference.cache
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\obj\Debug\PurchasedOrder.Form1.resources
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\obj\Debug\PurchasedOrder.Properties.Resources.resources
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\obj\Debug\PurchasedOrder.csproj.GenerateResource.Cache
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\obj\Debug\PurchasedOrder.exe
+c:\users\hyper - x\documents\visual studio 2013\Projects\PurchasedOrder\PurchasedOrder\obj\Debug\PurchasedOrder.pdb
